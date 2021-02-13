@@ -1,2 +1,2 @@
-# wiki
-Covariant Script Knowledge Database
+# Covariant Script Knowledge Database
+Site URL: http://wiki.csman.info/
