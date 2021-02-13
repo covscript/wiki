@@ -1,0 +1,15 @@
+= 参考文档：内建类型 =
+
+'''<<Anchor(A1.1)>> 1.1 number（数值）类型'''
+
+number 的字面量由 0\~9 十个数和小数点组成，如 12，3.14 等
+
+number 表示的数仅限于全体实数
+
+number 的初始值为0
+
+'''<<Anchor(A1.2)>> 1.2 boolean（逻辑）类型'''
+
+boolean 的字面量只有两个，分别是 true（真）和 false（假）
+
+boolean 的初始值为 true（真）
