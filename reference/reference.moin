@@ -1,0 +1,9 @@
+= Covariant Script 参考文档(STD201201) =
+
+== 目录 ==
+
+'''[[reference.build-in_types|1. 类型]]'''
+
+'''[[reference.build-in_types#1.1|1.1 数值类型（Number）]]'''
+
+'''[[reference.build-in_types#1.2|1.2 逻辑类型（Boolean）]]'''
