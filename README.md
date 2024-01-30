@@ -1,2 +1,2 @@
 # Covariant Script Knowledge Database
-Site URL: https://csman.info/
+Site URL: http://manual.covscript.org.cn/
